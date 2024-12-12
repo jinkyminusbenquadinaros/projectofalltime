@@ -1,0 +1,68 @@
+C:\Users\audri\Downloads\battleship game\bin\Debug\net8.0-windows\battleship game.exe
+C:\Users\audri\Downloads\battleship game\bin\Debug\net8.0-windows\battleship game.deps.json
+C:\Users\audri\Downloads\battleship game\bin\Debug\net8.0-windows\battleship game.runtimeconfig.json
+C:\Users\audri\Downloads\battleship game\bin\Debug\net8.0-windows\battleship game.dll
+C:\Users\audri\Downloads\battleship game\bin\Debug\net8.0-windows\battleship game.pdb
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship_game.Form1.resources
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship_game.Properties.Resources.resources
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.GenerateResource.cache
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfoInputs.cache
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfo.cs
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.CoreCompileInputs.cache
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.dll
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\refint\battleship game.dll
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.pdb
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\battleship game.genruntimeconfig.cache
+C:\Users\audri\Downloads\battleship game\obj\Debug\net8.0-windows\ref\battleship game.dll
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.exe
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.deps.json
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.runtimeconfig.json
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.dll
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.pdb
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship_game.Form1.resources
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship_game.Properties.Resources.resources
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.GenerateResource.cache
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfoInputs.cache
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfo.cs
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.CoreCompileInputs.cache
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.dll
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\refint\battleship game.dll
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.pdb
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.genruntimeconfig.cache
+C:\Users\neima\Downloads\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\ref\battleship game.dll
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship_game.Form1.resources
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship_game.Properties.Resources.resources
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.GenerateResource.cache
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.GeneratedMSBuildEditorConfig.editorconfig
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfoInputs.cache
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfo.cs
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.dll
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\refint\battleship game.dll
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.pdb
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.exe
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.deps.json
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.runtimeconfig.json
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.dll
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.pdb
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.genruntimeconfig.cache
+\\JLC-FSRV01\s24000007739\Downloads\battleship-game-project-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\ref\battleship game.dll
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.exe
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.deps.json
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.runtimeconfig.json
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.dll
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\bin\Debug\net8.0-windows\battleship game.pdb
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship_game.Form1.resources
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship_game.Properties.Resources.resources
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.GenerateResource.cache
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfoInputs.cache
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.AssemblyInfo.cs
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.csproj.CoreCompileInputs.cache
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.dll
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\refint\battleship game.dll
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.pdb
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\battleship game.genruntimeconfig.cache
+C:\Users\neima\Downloads\asdasdasd-main\asdasdasd-main\battleship-game-project-main\battleship-game-project-main\battleship game\obj\Debug\net8.0-windows\ref\battleship game.dll
